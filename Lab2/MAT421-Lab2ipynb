@@ -1,5 +1,12 @@
 {
  "cells": [
+ {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# MAT421 - Lab 2"
+   ]
+  },
   {
    "cell_type": "code",
    "execution_count": 89,
@@ -92,7 +99,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### Define the functions f and g, find the intersections (if exists), plot the graph and find the enclosed area."
+    "## Define the functions f and g, find the intersections (if exists), plot the graph and find the enclosed area."
    ]
   },
   {
@@ -246,7 +253,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### Define the functions f and g, find the intersections (if exists), plot the graph and find the volume of solids by DIsk (Washer)."
+    "## Define the functions f and g, find the intersections (if exists), plot the graph and find the volume of solids by DIsk (Washer)."
    ]
   },
   {
@@ -308,7 +315,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### Define the functions f and g, find the intersections (if exists), plot the graph and find the volume of solids by Cylindrical Shell Method."
+    "## Define the functions f and g, find the intersections (if exists), plot the graph and find the volume of solids by Cylindrical Shell Method."
    ]
   },
   {
